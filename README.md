@@ -7,6 +7,7 @@ automation. The project focuses on validating a Django-based REST API
 using Postman, ensuring reliable data integrity, contract testing, and
 maintainable automation practices.
 
+![Project3](postman1.gif).
 ## Key Features
 
 -   End-to-end API test automation with Postman.
